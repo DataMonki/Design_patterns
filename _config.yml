@@ -1,0 +1,51 @@
+# name of the software
+name:
+
+project:
+    version:
+    download_url:
+
+license:
+    software:
+    software_url: 
+
+    docs:
+    docs_url:
+
+links:
+    header:
+      - title:
+        url:
+    footer:
+      - title: GitHub
+        url:
+      - title:
+        url:
+
+ui:
+    header:
+        color1: "#080331"
+        color2: "#673051"
+        trianglify: true
+
+social:
+    github:
+        user:
+        repo:
+    twitter:
+        enabled: false
+        via:
+        hash:
+        account:
+    facebook:
+        enabled: false
+        profileUrl:
+
+analytics:
+    google:
+
+# Build settings
+markdown: kramdown
+exclude:
+    - Gemfile
+    - Gemfile.lock
